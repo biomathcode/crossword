@@ -19,7 +19,7 @@ export const data = {
           col: 0
       },
       9: {
-          clue: 'medical name for the feeling of extreme thirstiness', 
+          clue: 'medical name for the feeling of extreme thirstiness.(10)', 
           answer:'POLYDIPSIA', 
           row:14 , 
           col: 4
@@ -81,7 +81,7 @@ export const data = {
           col: 3
       }, 
       6: {
-          clue: 'large, double-ring oligomeric proteins that act as containers for the folding of other protein subunits.(plural).(4)', 
+          clue: 'large, double-ring oligomeric proteins that act as containers for the folding of other protein subunits.(plural).(11)', 
           answer: 'CHAPERONINS', 
           row: 0, 
           col: 4
