@@ -7,7 +7,7 @@ export const data = {
         col: 0,
       },
       2: {
-        clue: 'a Protein Coding gene. Diseases associated include Peroneal Nerve Paralysis.(acronym) (3)',
+        clue: 'a Protein Coding gene.a particle-promoted polypeptide; Actin-binding protein; May play a role in organizing the actin cytoskeleton. Diseases associated include Peroneal Nerve Paralysis. (3)',
         answer: 'IPP', 
         row: 0, 
         col: 12,
